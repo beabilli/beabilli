@@ -25,7 +25,8 @@ I'm always open to networking, collaboration, or discussing data and biology.
 
 🎯 **Actively seeking opportunities:** I am currently open to Junior Data Analyst roles or internships where I can apply my skills in SQL, Python, and Tableau to solve real-world business problems.
 
-![Profile Picture](https://github.com)
+<img width="1200" height="1200" alt="PHOTO-2026-05-11-18-38-06" src="https://github.com/user-attachments/assets/16e1db79-3c93-4e83-bde8-6d96ff94315c" />
+
 
 
 
