@@ -1,15 +1,24 @@
-## Hi there 👋 I'm Beatrice Billi
+## 🫆 About me
 
-I am a **30-year-old Biologist** transitioning into **Data Analysis**. 
+Hi, my name is Beatrice Billi and I am a **30-year-old Biologist** transitioning into **Data Analysis**. 
 I first discovered the power of data during my biology studies, and I am now turning that passion into a career through an intensive bootcamp at **WBS Coding School** (graduating in August 2026).
 
 I love writing code to clean data, uncover hidden patterns, and build impactful data visualizations that make complex insights easy to understand.
 
-## 🛠️ Tech Stack & Skills
-- **Languages:** Python, SQL
-- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-- **Data BI & Visualization:** Tableau
-- **Core Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Data Storytelling
+### 🛠️ Tech Stack & Skills
+
+#### 💻 Languages & Libraries
+![Python](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![SciPy](https://shields.io)
+
+#### 📊 Data BI & Visualization
+![Tableau](https://shields.io) ![Looker Studio](https://shields.io) ![Matplotlib](https://shields.io) ![Seaborn](https://shields.io)
+
+#### ☁️ Cloud & Data Engineering
+![Google Cloud](https://shields.io) ![BigQuery](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io)
+
+#### 🎯 Core Skills
+* **Data Engineering:** Web Scraping, API Integration, Automated ETL Pipelines
+* **Analytics & Strategy:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Hypothesis Testing, Text Classification, Data Storytelling
 
 ## 🚀 Projects
 
