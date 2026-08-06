@@ -17,6 +17,22 @@ I love writing code to clean data, uncover hidden patterns, and build impactful 
   * Analyzed a large-scale relational database from *Magist* (a Brazilian SaaS marketplace integrator) using SQL and Python to address critical business concerns regarding tech-product catalog fit, shipping logistics, and delivery speed. 
   * Delivered data visualizations in Tableau to support the final recommendations for the board of directors.
  
+  * 📁 **Gans Scooters: Automated ETL Pipeline for Smart Mobility**
+* Designed and engineered an automated ETL pipeline using Python to extract live weather forecasts and real-time flight metrics via external APIs.
+* Structured a relational MySQL database applying transactional logic and unique constraints to prevent data duplication.
+* Developed custom SQL views to handle flexible time-matching filters for dynamic fleet relocation strategies.
+
+🧪 **Eniac E-Commerce: Rigorous Multivariate A/B Testing**
+* Conducted a formal multivariate experiment using Python (SciPy) to optimize homepage banner CTA conversion rates.
+* Applied strict statistical frameworks, running a Global Chi-Square test of independence to validate user click behavior.
+* Implemented Bonferroni Correction for pairwise post-hoc analysis to control Type I error inflation and protect data integrity.
+
+📊 **Eniac E-Commerce: Data Cleansing & Financial Outlier Analysis**
+* Built a robust data engineering preprocessing pipeline using Regular Expressions (Regex) to repair severe database price corruptions.
+* Applied the Interquartile Range (IQR) method to eliminate financial logging anomalies and protect revenue metrics.
+* Engineered a text categorization model via Pandas string manipulation and corporate logical masks to classify products into 14 business departments.
+
+ 
 ## 📫 Let's Connect!
 I'm always open to networking, collaboration, or discussing data and biology.
 
