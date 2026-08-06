@@ -1,3 +1,5 @@
+# Hi, I'm Beatrice! — Biologist & Junior Data Analyst 🧬📊
+
 ## 🫆 About me
 
 Hi, my name is Beatrice Billi and I am a **30-year-old Biologist** transitioning into **Data Analysis**. 
@@ -7,18 +9,17 @@ I love writing code to clean data, uncover hidden patterns, and build impactful 
 
 ### 🛠️ Tech Stack & Skills
 
-#### 💻 Languages & Libraries
-![Python](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![SciPy](https://shields.io)
-
-#### 📊 Data BI & Visualization
-![Tableau](https://shields.io) ![Looker Studio](https://shields.io) ![Matplotlib](https://shields.io) ![Seaborn](https://shields.io)
-
-#### ☁️ Cloud & Data Engineering
-![Google Cloud](https://shields.io) ![BigQuery](https://shields.io) ![MySQL](https://shields.io) ![Git](https://shields.io)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **💻 Languages** | `Python` • `SQL` (MySQL) |
+| **📊 Libraries** | `Pandas` • `NumPy` • `SciPy` • `BeautifulSoup` • `Matplotlib` • `Seaborn` |
+| **💡 BI & Visualization** | `Tableau` • `Looker Studio` |
+| **☁️ Cloud & Engineering** | `Google Cloud Platform (GCP)` • `BigQuery` • `Web Scraping` • `APIs` |
 
 #### 🎯 Core Skills
-* **Data Engineering:** Web Scraping, API Integration, Automated ETL Pipelines
-* **Analytics & Strategy:** Data Cleaning, Exploratory Data Analysis (EDA), Statistical Hypothesis Testing, Text Classification, Data Storytelling
+* **Data Engineering:** Automated ETL Pipelines, Data Synchronization, Database Architecture
+* **Analytics & Strategy:** Rigorous Data Cleaning, Statistical Hypothesis Testing (Chi-Square, Bonferroni), Text Classification, Data Storytelling
+
 
 ## 🚀 Projects
 
@@ -48,7 +49,7 @@ I'm always open to networking, collaboration, or discussing data and biology.
 - 📧 **Email:** [beatrice.billi@hotmail.com](mailto:beatrice.billi@hotmail.com)
 - 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/beatrice-billi-89a1929b/)
 
-🎯 **Actively seeking opportunities:** I am currently open to Junior Data Analyst roles or internships where I can apply my skills in SQL, Python, and Tableau to solve real-world business problems.
+🎯 **Actively seeking opportunities:** I am currently open to Junior Data Analyst roles or internships specifically within the scientific, clinical, pharmaceutical, or environmental sectors, where I can combine my biological background with Python, SQL, and Tableau to solve real-world data challenges.
 
 <img src="https://github.com/user-attachments/assets/734c60d6-2f67-4d42-bbb9-9e019124d82a" width="200" alt="Beatrice Billi" />
 
